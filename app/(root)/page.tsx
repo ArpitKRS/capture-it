@@ -1,8 +1,15 @@
+import Header from '@/components/Header'
 import React from 'react'
 
 const Page = () => {
   return (
-    <div className='font-karla text-2xl'>Welcome to Loop clone</div>
+    <main className='wrapper page'>
+      <Header
+        title='All Videos'
+        subHeader='Public Library'
+      />
+      <h1 className="text-2xl font-karla">Welcome!</h1>
+    </main>
   )
 }
 
