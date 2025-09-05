@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Arpit-Kumar-Singh-s-workspace-foktj7.us-east-1.xata.sh/db/captureIt_db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
